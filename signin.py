@@ -33,3 +33,4 @@ if __name__ == '__main__':
     else:
         print('未启用 server 酱通知')
     print('本次签到与抽奖结果信息:\n %s' % resultMsg)
+    
